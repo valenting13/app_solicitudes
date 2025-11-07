@@ -27,7 +27,7 @@ class _UsersActions extends Notifier<void> {
     required String email,
     required String nombre,
     required String password,
-    required String rol, // "ADMIN" | "AGENTE" | "COLABORADOR"
+    required String rol,
     bool activo = true,
   }) async {
     await _repo.crear(

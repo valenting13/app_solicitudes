@@ -6,7 +6,6 @@ import 'package:proyecto_solicitudes/core/theme/app_colors.dart';
 class NotFoundPage extends StatelessWidget {
   const NotFoundPage({super.key, required this.location});
 
-  /// Ruta que se intentó abrir
   final String location;
 
   @override

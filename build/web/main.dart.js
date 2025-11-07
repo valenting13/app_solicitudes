@@ -90892,7 +90892,7 @@ $2(a,b){return J.dk(a)},
 $S:586}
 A.Om.prototype={
 M(a){var s=null
-return A.hC(A.b([A.ln(s,new A.bN(B.Gg,new A.B0(new A.z4("images/Logo_Grow_Up_Data_Analytics.png"),s),s),B.A,s,s,new A.dW(B.bk,s,s,A.j1(12),s,s,B.aN),60,s,s,120),B.bW,B.WQ,B.Rq,B.X_],t.p),B.Z,B.a1,B.b_)}}
+return A.hC(A.b([A.ln(s,new A.bN(B.Gg,new A.B0(new A.z4("assets/images/Logo_Grow_Up_Data_Analytics.png"),s),s),B.A,s,s,new A.dW(B.bk,s,s,A.j1(12),s,s,B.aN),60,s,s,120),B.bW,B.WQ,B.Rq,B.X_],t.p),B.Z,B.a1,B.b_)}}
 A.aAd.prototype={
 $1(a){return new A.w9(new A.akW(a.cN($.aAB(),t.ep).a))},
 $S:587}

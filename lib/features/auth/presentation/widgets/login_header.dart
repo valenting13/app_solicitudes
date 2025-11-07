@@ -23,7 +23,7 @@ borderRadius: BorderRadius.circular(12),
 ),
 child: Padding(
   padding: const EdgeInsets.all(10),
-  child: Image(image: AssetImage("images/Logo_Grow_Up_Data_Analytics.png")),
+  child: Image(image: AssetImage("assets/images/Logo_Grow_Up_Data_Analytics.png"))
 )
 ),
 const SizedBox(height: 12),
