@@ -20,7 +20,7 @@ class MyApp extends ConsumerWidget {
     final router = createRouter(ref);
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Web – Proyecto Demo',
+      title: 'Proyecto Solicitud',
       routerConfig: router,
       theme: ThemeData(
         brightness: Brightness.light,

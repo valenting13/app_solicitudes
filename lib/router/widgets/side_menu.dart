@@ -38,6 +38,7 @@ class SideMenu extends ConsumerWidget {
               context.go(it.path);
             },
           ),
+        SizedBox(height: 620),
         IconButton(
           tooltip: 'Cerrar sesión',
           icon: const Icon(Icons.logout),
